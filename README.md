@@ -25,11 +25,11 @@
 
 
 ## Requirements for the Project
-*Programming Skills*/: Proficiency in a language like Python, especially in data handling (Pandas) and machine learning libraries.
-*API Knowledge & Web Scraping*/
-*Machine Learning Knowledge*/: Understanding of unsupervised learning techniques for clustering and recommendation.
-*User Interface Design*/: Skills for creating an interactive and user-friendly interface for input and output handling.
-*Testing and Validation*/: Methods for ensuring the accuracy and relevance of the recommendations provided.
+- **Programming Skills:** Proficiency in a language like Python, especially in data handling (Pandas) and machine learning libraries.
+- **API Knowledge & Web Scraping**
+- **Machine Learning Knowledge**: Understanding of unsupervised learning techniques for clustering and recommendation.
+- **User Interface Design**: Skills for creating an interactive and user-friendly interface for input and output handling.
+- **Testing and Validation**: Methods for ensuring the accuracy and relevance of the recommendations provided.
 
 <img width="666" alt="p" src="https://github.com/ParinazMDI/Final-project/assets/148059593/3f5ff1d5-33fd-4f36-bbc9-238fab1b3324">
 
