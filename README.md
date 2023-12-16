@@ -2,8 +2,8 @@
 # Book Recommender
 
 ## Data Sources
-#Main Dataset: Sourced from the Goodreads database via Kaggle, providing extensive book information for our recommendation system.
-#2023 Best Books: A list of top books for 2023, compiled through web scraping from the Goodreads website to ensure up-to-date recommendations.
+**Main Dataset:** Sourced from the Goodreads database via Kaggle, providing extensive book information for our recommendation system.
+**2023 Best Books:** A list of top books for 2023, compiled through web scraping from the Goodreads website to ensure up-to-date recommendations.
 
 ## Description
 -Search for books by title, author, or genre.
@@ -12,9 +12,9 @@
 -Handling of non-matching queries with alternative suggestions.
 
 ## Components
-#find_book_by_title: Searches and recommends books based on titles.
-#find_book_by_author: Offers book recommendations by specific authors.
-#find_book_by_genre: Recommends books within a selected genre.
+- **find_book_by_title:** Searches and recommends books based on titles.
+- **find_book_by_author:** Offers book recommendations by specific authors.
+- **find_book_by_genre:** Recommends books within a selected genre.
 
 ## Project Approach
 Web Scraping: Possibly used for gathering book data from Goodreads websites(1000 list of best book of 2023)
